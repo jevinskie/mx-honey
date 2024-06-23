@@ -14,3 +14,4 @@ alias mxf='mx eclipseformat'
 alias mxu='mx unittest'
 alias mxdu='mx -d unittest'
 alias mxupd='mx update'
+compdef _mx mx
